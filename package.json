@@ -4,7 +4,7 @@
   "description": "A little JS and React app for randomizing break activities (mostly to practice my coding skills)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -18,9 +18,12 @@
   "homepage": "https://github.com/Theguyhere0/break-randomizer#readme",
   "dependencies": {
     "next": "^9.4.4",
+    "next-routes": "^1.4.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "semantic-ui-react": "^0.88.2"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
