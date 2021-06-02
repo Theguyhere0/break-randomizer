@@ -1,3 +1,5 @@
+# PROJECT ARCHIVED: No further work will be done on this project
+
 # break-randomizer
 A little JS and React app for randomizing break activities (mostly to practice my coding skills).
 I used Semantic UI React because I was not about to do my own CSS.
